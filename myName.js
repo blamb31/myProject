@@ -2,7 +2,7 @@ let myName = "Blake Lamb";
 
 console.log(myName);
 
-let sent = ""
+var sent = ""
 sent = "My name is " + myName + "!";
 
 console.log(sent)
